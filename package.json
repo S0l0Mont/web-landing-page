@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
+    "node": "^19.8.1",
     "vue": "^3.2.41",
     "vue-material-design-icons": "^5.1.2"
   },
