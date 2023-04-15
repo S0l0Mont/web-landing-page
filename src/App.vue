@@ -20,7 +20,7 @@
   <div class="flex h-screen justify-center items-center bg-zinc-900">
     <div class="text-center">
       <h1 class="text-6xl font-bold text-white animate__animated animate__fadeInDown font-family">THIS IS A WONG</h1>
-      <img src="public\typing.gif" class="object-cover h-48 w-96 animate__animated animate__fadeIn speed-450ms">
+      <img src="https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/32/1470845049-computer-typing-gif.gif?resize=980:*" alt="typing" class="object-cover h-48 w-96 animate__animated animate__fadeIn speed-450ms">
       <div class="flex justify-center m-3 text-white animate__animated animate__fadeInDown">
         <h2 class="mx-3 animate__animated animate__fadeIn speed-350ms">Coffee ☕</h2> <i class="fa-solid fa-slash-forward flex items-center"></i>
         <h2 class="mx-3 animate__animated animate__fadeIn speed-450ms">Typing 📃</h2> <i class="fa-solid fa-slash-forward flex items-center"></i>
